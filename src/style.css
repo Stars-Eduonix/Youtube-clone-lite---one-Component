@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.video{
+    display: flex;
+}
+
+.video .video-play{
+    width: 60%;
+    margin-right: 20px;
+}
+
+.video .video-list{
+    width: 30%;
+   
+}
+
